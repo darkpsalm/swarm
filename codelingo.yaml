@@ -1,3 +1,2 @@
 tenets:
-- import: codelingo/effective-go
-- import: codelingo/go
+- import: codelingo/go/non-directional-chan
