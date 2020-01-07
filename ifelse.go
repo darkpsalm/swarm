@@ -8,3 +8,7 @@ func ifelse() string {
     return "no"
   }
 }
+
+func i() chan int {
+	return make(chan int)
+}
