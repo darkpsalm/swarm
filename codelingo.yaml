@@ -1,4 +1,3 @@
 tenets:
 - import: codelingo/effective-go
 - import: codelingo/go
-- import: codelingo/lomik-go-carbon
