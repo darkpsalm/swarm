@@ -1,4 +1,4 @@
-
+// main is the best
 package main
 
 func ifelse() string {
